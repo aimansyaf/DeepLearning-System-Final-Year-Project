@@ -1,0 +1,5 @@
+
+train: data_images/train
+val : data_images/test
+nc: 3 #number of classes
+names: ['metal', 'paper', 'plastic'] #classnames

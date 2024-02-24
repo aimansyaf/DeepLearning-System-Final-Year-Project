@@ -14,9 +14,6 @@
     
     streamlit run app.py
   
-    # quit
-    ctrl-c
-    ```
 * VSCode
   * Open the repo directory in VSCode
   * Open app.py
